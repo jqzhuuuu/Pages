@@ -6,7 +6,7 @@ My name is Joshua Zhu, an introverted Second Year CS student looking to create i
 [About Me:](#about-me)\
 [Some things I enjoy:](#some-things-i-enjoy)\
 [Some things I hate:](#some-things-i-hate)\
-[Some Fun](#some-fun)\
+[Some Fun:](#some-fun)
 
 ## About Me
 I come from Southern California, and so far I've:
@@ -47,7 +47,7 @@ I come from Southern California, and so far I've:
 
 ## Some Fun:
 My Dog Kelly sleeping:\
-![Kelly Sleeping](Kelly%202.png =250px)
+![Kelly Sleeping](Kelly%202.png)
 
 My goto reaction image:\
-![happiness noise](happiness%20noise.jpg =250px)
+![happiness noise](happiness%20noise.jpg)
