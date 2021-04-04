@@ -47,7 +47,7 @@ I come from Southern California, and so far I've:
 
 ## Some Fun:
 My Dog Kelly sleeping:\
-![Kelly Sleeping](Kelly%202.png=250px)
+![Kelly Sleeping](Kelly%202.png =250px)
 
 My goto reaction image:\
-![happiness noise](happiness%20noise.jpg=250px)
+![happiness noise](happiness%20noise.jpg =250px)
