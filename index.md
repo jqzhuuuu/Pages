@@ -1,11 +1,16 @@
 `System.out.println("Hello World!");`
+
 My name is Joshua Zhu, an introverted Second Year CS student looking to create innovative applications for the world.
 
 # Sections:
 [About Me:](#about-me)
+
 [Some things I enjoy:](#some-things-i-enjoy)
+
 [Some things I hate:](#some-things-i-hate)
+
 [Some Fun](#some-fun)
+
 
 ## About Me
 I come from Southern California, and so far I've:
