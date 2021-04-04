@@ -1,16 +1,12 @@
-`System.out.println("Hello World!");`
+`System.out.println("Hello World!");`\
 
 My name is Joshua Zhu, an introverted Second Year CS student looking to create innovative applications for the world.
 
 # Sections:
-[About Me:](#about-me)
-
-[Some things I enjoy:](#some-things-i-enjoy)
-
-[Some things I hate:](#some-things-i-hate)
-
-[Some Fun](#some-fun)
-
+[About Me:](#about-me)\
+[Some things I enjoy:](#some-things-i-enjoy)\
+[Some things I hate:](#some-things-i-hate)\
+[Some Fun](#some-fun)\
 
 ## About Me
 I come from Southern California, and so far I've:
@@ -50,11 +46,8 @@ I come from Southern California, and so far I've:
         > If you were responsible, you clean it up
 
 ## Some Fun:
-My Dog Kelly sleeping:
-![Kelly Sleeping](Kelly%202.png)
+My Dog Kelly sleeping:\
+![Kelly Sleeping](Kelly%202.png=250px)
 
-A recent meme that I laughed at:
-![Stuck Boat Meme](stuck.png)
-
-My goto reaction image:
-![happiness noise](happiness%20noise.jpg)
+My goto reaction image:\
+![happiness noise](happiness%20noise.jpg=250px)
