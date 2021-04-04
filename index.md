@@ -1,5 +1,4 @@
 `System.out.println("Hello World!");`\
-
 My name is Joshua Zhu, an introverted Second Year CS student looking to create innovative applications for the world.
 
 # Sections:
